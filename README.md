@@ -2,4 +2,4 @@
 
 ## usando git y github
 
-Repositorio remoto en github
+Vamos a aprender como utulizar Repositorio remoto en github
